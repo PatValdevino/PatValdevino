@@ -2,6 +2,8 @@
 
 💻📚 Estudante de Análise e Desenvolvimento de Sistemas, e Ciência da Computação.
 
+![gatopc](https://user-images.githubusercontent.com/104471849/169604709-e9884ec5-b1ee-4cab-9629-2d1d15c6f68e.gif)
+
  ##
   
   <div> 
@@ -23,6 +25,5 @@
 </div>
  
   ##
-  
-  ![gatopc](https://user-images.githubusercontent.com/104471849/169604709-e9884ec5-b1ee-4cab-9629-2d1d15c6f68e.gif)
+ 
   
